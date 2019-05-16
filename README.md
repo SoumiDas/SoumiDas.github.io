@@ -6,7 +6,7 @@ I have completed my **B.Sc (Computer Science Honours)** from **St. Xaviers Colle
 
 ## Curriculum Vitae
 
-[CV](https://drive.google.com/file/d/1DswJYXst0aom8pWNXPnqYHj5kyBwHOHf/view?usp=sharing)
+[CV](https://www.dropbox.com/s/mqi0qoccpb5wfwn/Soumi_Resume.pdf?dl=0)
 
 ## Contact
 
