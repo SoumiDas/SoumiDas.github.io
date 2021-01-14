@@ -6,6 +6,7 @@ I have completed my **B.Sc (Computer Science Honours)** from **St. Xaviers Colle
 
 ## Presentations
 [Explainability in Computer Vision](https://www.dropbox.com/s/q9i4c5sqznx1vhv/Winter_school_FAccT_AI.pdf?dl=0)
+[Explainability or Interpretability?](https://www.dropbox.com/s/c988oz1kzrg18p4/Expl-Interp-ReadingGroup.pdf?dl=0)
 
 ## Curriculum Vitae
 
