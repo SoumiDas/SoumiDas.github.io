@@ -1,8 +1,8 @@
 ## About Me
-I am Soumi Das, a final-year Ph.D scholar under the supervision of [Dr. Sourangshu Bhattacharya](http://cse.iitkgp.ac.in/~sourangshu/index.html) in the Department of [Computer Science and Engineering (C.S.E), Indian Institute of Technology (IIT) Kharagpur.](http://cse.iitkgp.ac.in) I joined [Complex NEtwork Research Group (CNeRG)](http://www.cnergres.iitkgp.ac.in/) of this department in May, 2017. My research area broadly spans Machine Learning and Computer Vision.
+I am Soumi Das, a post-doctoral researcher at [Max Planck Institute for Software Systems](https://www.mpi-sws.org/) working with [Professor Krishna Gummadi's](https://www.mpi-sws.org/people/gummadi/) group at Saarbruecken. Presently I'll be working on understanding the robust representations learnt by large foundation models. I have worked in my PhD tenure under the supervision of [Dr. Sourangshu Bhattacharya](http://cse.iitkgp.ac.in/~sourangshu/index.html) in the Department of [Computer Science and Engineering (C.S.E), Indian Institute of Technology (IIT) Kharagpur.](http://cse.iitkgp.ac.in) I joined [Complex NEtwork Research Group (CNeRG)](http://www.cnergres.iitkgp.ac.in/) of this department in May, 2017. My research area during PhD broadly spans Machine Learning and Computer Vision and dealing with subset selection problems in the field of data-centric AI. 
 
 ## Education
-I have completed my **B.Sc (Computer Science Honours)** from **St. Xaviers College** in 2014. Then I completed my **M.Sc (Computer Science)** from the **Institute of Science, Banaras Hindu University (B.H.U)** in 2016. 
+I have completed my **B.Sc (Computer Science Honours)** from **St. Xaviers College** in 2014. Then I completed my **M.Sc (Computer Science)** from the **Institute of Science, Banaras Hindu University (B.H.U)** in 2016. I submitted my PhD thesis entitled **'Algorithms for online subset selection and data valuation in data-centric AI'** at IIT Kharagpur in July 2023.
 
 ## Presentations
 [Publication Repository](https://github.com/SoumiDas/Publications)
