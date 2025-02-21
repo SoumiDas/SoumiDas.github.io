@@ -1,4 +1,4 @@
-![My Image](docs/assets/13041240_10207953920959394_9206261717483753467_o.jpg)
+<img src="docs/assets/myphoto.jpeg" alt="My Image" width="300" height="300">
 
 ## About Me
 
