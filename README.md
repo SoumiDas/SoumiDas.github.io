@@ -1,4 +1,7 @@
+![My Image](docs/assets/13041240_10207953920959394_9206261717483753467_o.jpg)
+
 ## About Me
+
 I am Soumi Das, a post-doctoral researcher at [Max Planck Institute for Software Systems](https://www.mpi-sws.org/), Saarbruecken advised by [Professor Krishna Gummadi](https://www.mpi-sws.org/people/gummadi/). Presently I'll be working on understanding the robust representations learnt by large foundation models. I have worked in my PhD tenure under the supervision of [Dr. Sourangshu Bhattacharya](http://cse.iitkgp.ac.in/~sourangshu/index.html) in the Department of [Computer Science and Engineering (C.S.E), Indian Institute of Technology (IIT) Kharagpur.](http://cse.iitkgp.ac.in) I joined [Complex NEtwork Research Group (CNeRG)](http://www.cnergres.iitkgp.ac.in/) of this department in May, 2017. My research area during PhD broadly spans Machine Learning and Computer Vision and dealing with subset selection problems in the field of data-centric AI. 
 
 ## Education
