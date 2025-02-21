@@ -32,7 +32,7 @@ I have completed my **B.Sc (Computer Science Honours)** from **St. Xaviers Colle
 
 2. Till Speicher, Mohammad Aflah Khan, Qinyuan Wu, Vedant Nanda, **Soumi Das**, Bishwamittra Ghosh, Krishna P. Gummadi, and Evimaria Terzi , *Understanding Memorisation in LLMs: Dynamics, Influencing Factors, and Implications* [[paper]](https://arxiv.org/abs/2407.19262)
 
-3. **Soumi Das**, Rajath Nandan Kalava, Kolli Kiran Kumar, Akhil Kandregula, Kalpam Suhaas, Sourangshu Bhattacharya, and Niloy Ganguly, *Map Enhanced Route Travel Time Prediction using Deep Neural Networks*, [[paper]](https://arxiv.org/pdf/1911.02623.pdf)
+3. **Soumi Das**, Rajath Nandan Kalava, Kolli Kiran Kumar, Akhil Kandregula, Kalpam Suhaas, Sourangshu Bhattacharya, and Niloy Ganguly, *Map Enhanced Route Travel Time Prediction using Deep Neural Networks* [[paper]](https://arxiv.org/pdf/1911.02623.pdf)
 
 ## Presentations on different topics
 
