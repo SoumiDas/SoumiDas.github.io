@@ -52,7 +52,7 @@ I have completed my **B.Sc (Computer Science Honours)** from **St. Xaviers Colle
 
 ## Contact
 
-You can reach me through email at soumid.04@gmail.com 
+You can reach me through email at *soumid.04 [at] gmail [dot] com* 
 
 LinkedIn: [soumi-das](https://www.linkedin.com/in/soumi-das/)
 
