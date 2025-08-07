@@ -11,7 +11,7 @@ I have completed my **B.Sc (Computer Science Honours)** from **St. Xaviers Colle
 
 1. Mohammad Aflah Khan, Mahsa Amani, **Soumi Das**, Bishwamittra Ghosh, Qinyuan Wu, Krishna P. Gummadi, Manish Gupta, Abhilasha Ravichander *In Agents We Trust, but Who Do Agents Trust? Latent Source Preferences Steer LLM Generations*, Workshop on Reliable and Responsible Foundation Models: ICML 2025 Workshop [[paper]](https://openreview.net/pdf?id=oZMisPPggL)
 
-2. Qinyuan Wu, **Soumi Das**, Mahsa Amani 1 Bishwamittra Ghosh, Mohammad Aflah Khan, Krishna P. Gummadi, Muhammad Bilal Zafar \emph{Rote Learning Considered Useful: Generalizing over Memorized Data in LLMs}, The Impact of Memorization on Trustworthy Foundation Models: ICML 2025 Workshop [[paper]](https://openreview.net/pdf?id=vNOA396J3q)
+2. Qinyuan Wu, **Soumi Das**, Mahsa Amani, Bishwamittra Ghosh, Mohammad Aflah Khan, Krishna P. Gummadi, Muhammad Bilal Zafar \emph{Rote Learning Considered Useful: Generalizing over Memorized Data in LLMs}, The Impact of Memorization on Trustworthy Foundation Models: ICML 2025 Workshop [[paper]](https://openreview.net/pdf?id=vNOA396J3q)
 
 3. Bishwamittra Ghosh, **Soumi Das**, Qinyuan Wu, Mohammad Aflah Khan, Krishna P. Gummadi, Evimaria Terzi, Deepak Garg \emph{Rethinking Memorization Measures in LLMs: Recollection vs. Counterfactual vs. Contextual Memorization}, The Impact of Memorization on Trustworthy Foundation Models: ICML 2025 Workshop [[paper]](https://openreview.net/pdf?id=c6nqmjfG1Y)
 
