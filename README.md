@@ -11,9 +11,9 @@ I have completed my **B.Sc (Computer Science Honours)** from **St. Xaviers Colle
 
 1. Mohammad Aflah Khan, Mahsa Amani, **Soumi Das**, Bishwamittra Ghosh, Qinyuan Wu, Krishna P. Gummadi, Manish Gupta, Abhilasha Ravichander *In Agents We Trust, but Who Do Agents Trust? Latent Source Preferences Steer LLM Generations*, Workshop on Reliable and Responsible Foundation Models: ICML 2025 Workshop [[paper]](https://openreview.net/pdf?id=oZMisPPggL)
 
-2. Qinyuan Wu, **Soumi Das**, Mahsa Amani, Bishwamittra Ghosh, Mohammad Aflah Khan, Krishna P. Gummadi, Muhammad Bilal Zafar \emph{Rote Learning Considered Useful: Generalizing over Memorized Data in LLMs}, The Impact of Memorization on Trustworthy Foundation Models: ICML 2025 Workshop [[paper]](https://openreview.net/pdf?id=vNOA396J3q)
+2. Qinyuan Wu, **Soumi Das**, Mahsa Amani, Bishwamittra Ghosh, Mohammad Aflah Khan, Krishna P. Gummadi, Muhammad Bilal Zafar *Rote Learning Considered Useful: Generalizing over Memorized Data in LLMs*, The Impact of Memorization on Trustworthy Foundation Models: ICML 2025 Workshop [[paper]](https://openreview.net/pdf?id=vNOA396J3q)
 
-3. Bishwamittra Ghosh, **Soumi Das**, Qinyuan Wu, Mohammad Aflah Khan, Krishna P. Gummadi, Evimaria Terzi, Deepak Garg \emph{Rethinking Memorization Measures in LLMs: Recollection vs. Counterfactual vs. Contextual Memorization}, The Impact of Memorization on Trustworthy Foundation Models: ICML 2025 Workshop [[paper]](https://openreview.net/pdf?id=c6nqmjfG1Y)
+3. Bishwamittra Ghosh, **Soumi Das**, Qinyuan Wu, Mohammad Aflah Khan, Krishna P. Gummadi, Evimaria Terzi, Deepak Garg *Rethinking Memorization Measures in LLMs: Recollection vs. Counterfactual vs. Contextual Memorization*, The Impact of Memorization on Trustworthy Foundation Models: ICML 2025 Workshop [[paper]](https://openreview.net/pdf?id=c6nqmjfG1Y)
 
 4. Qinyuan Wu, Mohammad Aflah Khan, **Soumi Das**, Vedant Nanda, Bishwamittra Ghosh, Camila Kolling, Till Speicher, Laurent Bindschaedler, Krishna P. Gummadi, and Evimaria Terzi,  *Towards Reliable Latent Knowledge Estimation in LLMs: Zero-Prompt Many-Shot Based Factual Knowledge Extraction*, International Conference on Web Search and Data Mining (WSDM 2025)[[paper]](https://arxiv.org/abs/2404.12957) [[code]](https://github.com/SoumiDas/ZeroPrompt_LKE)
 
