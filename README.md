@@ -40,6 +40,14 @@ I have completed my **B.Sc (Computer Science Honours)** from **St. Xaviers Colle
 
 3. **Soumi Das**, Rajath Nandan Kalava, Kolli Kiran Kumar, Akhil Kandregula, Kalpam Suhaas, Sourangshu Bhattacharya, and Niloy Ganguly, *Map Enhanced Route Travel Time Prediction using Deep Neural Networks* [[paper]](https://arxiv.org/pdf/1911.02623.pdf)
 
+## Teachings
+
+I am teaching a seminar course on Efficient Training of Large Language Models at MPI-SWS and University of Saarland for the Winter Semester of 2025-2026. 
+
+| Topic | Slides |
+| ----- | ------ |
+| Building blocks of Large Language Models | [Lecture 1 & 2](https://docs.google.com/presentation/d/1srg0yF-EMFqVMjleTN6Pc9BzTc2P9ncp/edit?usp=sharing&ouid=111090954812163094468&rtpof=true&sd=true)
+
 ## Presentations on different topics
 
 1. [Function Vectors in Large Language Models, ICLR 2024](https://docs.google.com/presentation/d/1NJ12T62CM1tiPFnWMD_v96-fqZOm_PeanVLsfEpOmVQ/edit?usp=sharing)
