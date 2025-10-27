@@ -46,7 +46,7 @@ I am teaching a seminar course on Efficient Training of Large Language Models at
 
 | Topic | Slides |
 | ----- | ------ |
-| Building blocks of Large Language Models | [Lecture 1 & 2](https://docs.google.com/presentation/d/1srg0yF-EMFqVMjleTN6Pc9BzTc2P9ncp/edit?usp=sharing&ouid=111090954812163094468&rtpof=true&sd=true)
+| Building blocks of Large Language Models | [Lecture 1 & 2](https://drive.google.com/file/d/1p-2QxJDdUDsnzWwZr-Fzy06yXFGHxp--/view?usp=sharing)
 
 ## Presentations on different topics
 
