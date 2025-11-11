@@ -42,7 +42,7 @@ I have completed my **B.Sc (Computer Science Honours)** from **St. Xaviers Colle
 
 ## Teachings
 
-I am teaching a seminar course on **Efficient Training of Large Language Models : From Basics to Fine-tuning** at MPI-SWS and University of Saarland for the Winter Semester of 2025-2026. 
+I am teaching a seminar course on **Efficient Training of Large Language Models : From Basics to Fine-tuning** at MPI-SWS and University of Saarland for the Winter Semester of 2025-2026. The detailed lectures, assignments, reading lists can be found [here](https://gitlab.mpi-sws.org/ns/efficient-training-of-llms).
 
 | Topic | Slides |
 | ----- | ------ |
