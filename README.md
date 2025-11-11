@@ -47,6 +47,8 @@ I am teaching a seminar course on **Efficient Training of Large Language Models 
 | Topic | Slides |
 | ----- | ------ |
 | Building blocks of Large Language Models | [Lecture 1 & 2](https://drive.google.com/file/d/1p-2QxJDdUDsnzWwZr-Fzy06yXFGHxp--/view?usp=sharing)
+| Phases of training Large Language Models | [Lecture 3](https://drive.google.com/file/d/19CTjOj0T5gbvXcDWh5YB7g46XQF9A_TR/view?usp=sharing)
+| Hands-on Session I : Coding GPT2 from scratch| [Lecture 4](https://drive.google.com/drive/folders/1_oy44HRPgrVy4DzwXQOpFGs3BGKDQ_79?usp=sharing)
 
 ## Presentations on different topics
 
