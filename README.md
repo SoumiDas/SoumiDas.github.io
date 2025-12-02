@@ -50,7 +50,7 @@ I am teaching a seminar course on **Efficient Training of Large Language Models 
 | Phases of training Large Language Models | [Lecture 3](https://drive.google.com/file/d/19CTjOj0T5gbvXcDWh5YB7g46XQF9A_TR/view?usp=sharing)
 | Hands-on Session I : Coding GPT2 from scratch| [Lecture 4](https://drive.google.com/drive/folders/1_oy44HRPgrVy4DzwXQOpFGs3BGKDQ_79?usp=sharing)
 | System Level Optimisation - Part I| [Lecture 5](https://drive.google.com/file/d/1SyC5qWgtBu7gtRETKEQnhPWgm7MRcrz3/view?usp=sharing)
-| System Level Optimisation - Part II| [Lecture 6](https://drive.google.com/file/d/1pWSfEdXQqtTeLsVI4wYUATPvkHLLlDr3/view?usp=sharing) [Notebook](https://drive.google.com/file/d/1lFytHmss7aVeAOpILKufRVrczxGYBudh/view?usp=sharing)
+| System Level Optimisation - Part II| [Lecture 6](https://drive.google.com/file/d/1pWSfEdXQqtTeLsVI4wYUATPvkHLLlDr3/view?usp=sharing) , [Notebook](https://drive.google.com/file/d/1lFytHmss7aVeAOpILKufRVrczxGYBudh/view?usp=sharing)
 
 ## Presentations on different topics
 
