@@ -51,6 +51,8 @@ I am teaching a seminar course on **Efficient Training of Large Language Models 
 | Hands-on Session I : Coding GPT2 from scratch| [Lecture 4](https://drive.google.com/drive/folders/1_oy44HRPgrVy4DzwXQOpFGs3BGKDQ_79?usp=sharing)
 | System Level Optimisation - Part I| [Lecture 5](https://drive.google.com/file/d/1SyC5qWgtBu7gtRETKEQnhPWgm7MRcrz3/view?usp=sharing)
 | System Level Optimisation - Part II| [Lecture 6](https://drive.google.com/file/d/1pWSfEdXQqtTeLsVI4wYUATPvkHLLlDr3/view?usp=sharing) , [Notebook](https://drive.google.com/file/d/1lFytHmss7aVeAOpILKufRVrczxGYBudh/view?usp=sharing)
+| System Level Optimisation - Part III| [Lecture 7](https://drive.google.com/file/d/1vqISZeooIfQ4WBkS3AxvRCfZ4fIoZoaX/view?usp=sharing)
+| System Level Optimisation - Part IV| [Lecture 8](https://drive.google.com/file/d/1FPmEtcvCxq_0Y8ZsQZQn5PaP0c59k_pA/view?usp=sharing)
 
 ## Presentations on different topics
 
