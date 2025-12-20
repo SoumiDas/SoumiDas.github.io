@@ -56,15 +56,17 @@ I am teaching a seminar course on **Efficient Training of Large Language Models 
 
 ## Presentations on different topics
 
-1. [Function Vectors in Large Language Models, ICLR 2024](https://docs.google.com/presentation/d/1NJ12T62CM1tiPFnWMD_v96-fqZOm_PeanVLsfEpOmVQ/edit?usp=sharing)
+1. [Responsible LLM Engineering - From Architecture to Privacy-Aware Fine-tuning](https://drive.google.com/file/d/1HUW5pMmel6hSVGpAD8sG-MSVyBGea2uK/view?usp=sharing)
 
-2. [Are Emergent Abilities of Large Language Models a Mirage?, NeurIPS 2023](https://docs.google.com/presentation/d/1Vvbo7jrn2k9TTuPpXKfHQD_3zRdf12tqaU9NLYa9zPo/edit?usp=sharing)
+2. [Function Vectors in Large Language Models, ICLR 2024](https://docs.google.com/presentation/d/1NJ12T62CM1tiPFnWMD_v96-fqZOm_PeanVLsfEpOmVQ/edit?usp=sharing)
 
-3. [Explainability in Computer Vision](https://www.dropbox.com/s/q9i4c5sqznx1vhv/Winter_school_FAccT_AI.pdf?dl=0)
+3. [Are Emergent Abilities of Large Language Models a Mirage?, NeurIPS 2023](https://docs.google.com/presentation/d/1Vvbo7jrn2k9TTuPpXKfHQD_3zRdf12tqaU9NLYa9zPo/edit?usp=sharing)
 
-4. [Explainability or Interpretability?](https://www.dropbox.com/s/c988oz1kzrg18p4/Expl-Interp-ReadingGroup.pdf?dl=0)
+4. [Explainability in Computer Vision](https://www.dropbox.com/s/q9i4c5sqznx1vhv/Winter_school_FAccT_AI.pdf?dl=0)
 
-5. [PhD Thesis - Algorithms for online subset selection and data valuation in data-centric AI](https://docs.google.com/presentation/d/1OYNf5BO7R4n9fx2M7ie0JCSN8WtO0N_BVDf7bu4zTuc/edit?usp=sharing)
+5. [Explainability or Interpretability?](https://www.dropbox.com/s/c988oz1kzrg18p4/Expl-Interp-ReadingGroup.pdf?dl=0)
+
+6. [PhD Thesis - Algorithms for online subset selection and data valuation in data-centric AI](https://docs.google.com/presentation/d/1OYNf5BO7R4n9fx2M7ie0JCSN8WtO0N_BVDf7bu4zTuc/edit?usp=sharing)
 
 ## Curriculum Vitae
 
