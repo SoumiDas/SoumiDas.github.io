@@ -9,13 +9,13 @@ I have completed my **B.Sc (Computer Science Honours)** from **St. Xaviers Colle
 
 ## Publication Lists
 
-1. Abhisek Dash, **Soumi Das**, Elizabeth Kirsten, Qinyuan Wu, Sai Keerthana Karnam, Krishna P. Gummadi, Thorsten Holz, Muhammad Bilal Zafar, Savvas Zannettou, *The Algorithmic Self-Portrait: Deconstructing Memory in ChatGPT*, International Association for Safe \& Ethical AI (IASEAI), 2026 (Non-archival)
+1. Abhisek Dash, **Soumi Das**, Elizabeth Kirsten, Qinyuan Wu, Sai Keerthana Karnam, Krishna P. Gummadi, Thorsten Holz, Muhammad Bilal Zafar, Savvas Zannettou, *The Algorithmic Self-Portrait: Deconstructing Memory in ChatGPT*, Proceedings of The ACM Web Conference, 2026 [[paper]](https://drive.google.com/file/d/1j2R0Zl14IrQEfZdOjDJSisAZbhlNbRUt/view)
+   
+2. Qinyuan Wu, **Soumi Das**, Mahsa Amani, Bishwamittra Ghosh, Mohammad Aflah Khan, Krishna P. Gummadi, Muhammad Bilal Zafar *Rote Learning Considered Useful: Generalizing over Memorized Data in LLMs*, The Fourteenth International Conference on Learning Representations, ICLR 2026 [[paper]](https://openreview.net/forum?id=JpEZIM0qAZ)
 
-2. **Soumi Das**, Camila Kolling, Mohammad Aflah Khan, Mahsa Amani, Bishwamittra Ghosh, Qinyuan Wu, Till Speicher, and  Krishna P. Gummadi, *Revisiting Privacy, Utility, and Efficiency Trade-offs when Fine-Tuning Large Language Models*, International Association for Safe \& Ethical AI (IASEAI), 2026 (Non-archival)
-
-3. Mohammad Aflah Khan, Mahsa Amani, **Soumi Das**, Bishwamittra Ghosh, Qinyuan Wu, Krishna P. Gummadi, Manish Gupta, Abhilasha Ravichander *In Agents We Trust, but Who Do Agents Trust? Latent Source Preferences Steer LLM Generations*, Workshop on Reliable and Responsible Foundation Models: ICML 2025 Workshop [[paper]](https://openreview.net/pdf?id=oZMisPPggL)
-
-4. Qinyuan Wu, **Soumi Das**, Mahsa Amani, Bishwamittra Ghosh, Mohammad Aflah Khan, Krishna P. Gummadi, Muhammad Bilal Zafar *Rote Learning Considered Useful: Generalizing over Memorized Data in LLMs*, The Impact of Memorization on Trustworthy Foundation Models: ICML 2025 Workshop [[paper]](https://openreview.net/pdf?id=vNOA396J3q)
+3.  Mohammad Aflah Khan, Mahsa Amani, **Soumi Das**, Bishwamittra Ghosh, Qinyuan Wu, Krishna P. Gummadi, Manish Gupta, Abhilasha Ravichander *In Agents We Trust, but Who Do Agents Trust? Latent Source Preferences Steer LLM Generations*, The Fourteenth International Conference on Learning Representations, ICLR 2026 [[paper]](https://openreview.net/forum?id=yTUNl6jYGU)
+   
+4. **Soumi Das**, Camila Kolling, Mohammad Aflah Khan, Mahsa Amani, Bishwamittra Ghosh, Qinyuan Wu, Till Speicher, and  Krishna P. Gummadi, *Revisiting Privacy, Utility, and Efficiency Trade-offs when Fine-Tuning Large Language Models*, International Association for Safe \& Ethical AI (IASEAI), 2026 (Non-archival)
 
 5. Bishwamittra Ghosh, **Soumi Das**, Qinyuan Wu, Mohammad Aflah Khan, Krishna P. Gummadi, Evimaria Terzi, Deepak Garg *Rethinking Memorization Measures in LLMs: Recollection vs. Counterfactual vs. Contextual Memorization*, The Impact of Memorization on Trustworthy Foundation Models: ICML 2025 Workshop [[paper]](https://openreview.net/pdf?id=c6nqmjfG1Y)
 
