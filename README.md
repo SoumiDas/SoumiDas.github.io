@@ -38,11 +38,13 @@ I have completed my **B.Sc (Computer Science Honours)** from **St. Xaviers Colle
 
 ## Preprints
 
-1. **Soumi Das**, Camila Kolling, Mohammad Aflah Khan, Mahsa Amani, Bishwamittra Ghosh, Qinyuan Wu, Till Speicher, and  Krishna P. Gummadi, *Revisiting Privacy, Utility, and Efficiency Trade-offs when Fine-Tuning Large Language Models* [[paper]](https://arxiv.org/abs/2502.13313)
+1. Seungeon Lee, **Soumi Das**, Manish Gupta, Krishna Gummadi, *LoRA on the Go: Instance-level Dynamic LoRA Selection and Merging* [[paper]](https://arxiv.org/pdf/2511.07129)
 
-2. Till Speicher, Mohammad Aflah Khan, Qinyuan Wu, Vedant Nanda, **Soumi Das**, Bishwamittra Ghosh, Krishna P. Gummadi, and Evimaria Terzi , *Understanding Memorisation in LLMs: Dynamics, Influencing Factors, and Implications* [[paper]](https://arxiv.org/abs/2407.19262)
+2. **Soumi Das**, Camila Kolling, Mohammad Aflah Khan, Mahsa Amani, Bishwamittra Ghosh, Qinyuan Wu, Till Speicher, and  Krishna P. Gummadi, *Revisiting Privacy, Utility, and Efficiency Trade-offs when Fine-Tuning Large Language Models* [[paper]](https://arxiv.org/abs/2502.13313)
 
-3. **Soumi Das**, Rajath Nandan Kalava, Kolli Kiran Kumar, Akhil Kandregula, Kalpam Suhaas, Sourangshu Bhattacharya, and Niloy Ganguly, *Map Enhanced Route Travel Time Prediction using Deep Neural Networks* [[paper]](https://arxiv.org/pdf/1911.02623.pdf)
+3. Till Speicher, Mohammad Aflah Khan, Qinyuan Wu, Vedant Nanda, **Soumi Das**, Bishwamittra Ghosh, Krishna P. Gummadi, and Evimaria Terzi , *Understanding Memorisation in LLMs: Dynamics, Influencing Factors, and Implications* [[paper]](https://arxiv.org/abs/2407.19262)
+
+4. **Soumi Das**, Rajath Nandan Kalava, Kolli Kiran Kumar, Akhil Kandregula, Kalpam Suhaas, Sourangshu Bhattacharya, and Niloy Ganguly, *Map Enhanced Route Travel Time Prediction using Deep Neural Networks* [[paper]](https://arxiv.org/pdf/1911.02623.pdf)
 
 ## Teachings
 
