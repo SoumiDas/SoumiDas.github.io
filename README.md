@@ -76,7 +76,7 @@ I am teaching a seminar course on **Efficient Training of Large Language Models 
 
 ## Curriculum Vitae
 
-[CV](https://www.dropbox.com/s/7ygq66288u0sfuj/Soumi_CV.pdf?dl=0)
+[CV](https://www.dropbox.com/scl/fi/cech09cphft9xmw9ajiqk/SoumiDas_CV.pdf?rlkey=0nhpv52r4l06ahodm70zc6tqo&st=yfmk18xm&dl=0)
 
 ## Contact
 
